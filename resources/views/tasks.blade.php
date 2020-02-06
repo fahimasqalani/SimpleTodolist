@@ -1,11 +1,9 @@
 @extends('dashboard')
 
-@section('title') Tasks List @endsection
-
 @section('content')
     <div class="row">
         <div class="col-md-12">
-            <h3>Tasks List</h3>
+            <h3>Todo Tasks List</h3>
 
             <table class="table table-striped">
                 <tr>
