@@ -6,7 +6,7 @@
     <div class="row">
         <div class="col-md-12">
             <h3>Edit Task</h3>
-            <p>Use the following form to edit che chosen task.</p>
+            <p>Use the following form to edit the chosen task...</p>
 
             <hr>
 
