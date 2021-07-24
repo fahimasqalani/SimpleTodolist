@@ -1,1 +1,1 @@
-Simple Todo-List project for learning PHP and Laravel technologies.
+Simple Todo-List project for learning Php and Laravel technologies.
